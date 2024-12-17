@@ -67,7 +67,7 @@ class _ButtonsView extends StatelessWidget {
               label: const Text('outlined icon')
             ),
 
-            CustomButton(),
+            const CustomButton(),
 
             IconButton(onPressed: (){}, icon: const Icon(Icons.zoom_out_map_sharp)),
             IconButton(
