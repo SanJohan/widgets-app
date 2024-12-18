@@ -45,10 +45,17 @@ class MenuItems {
     ),
 
     MenuItems(
-      title: 'Animated container =', 
+      title: 'Animated container', 
       subtitle: 'Stateful animado', 
       link: '/animated', 
       icon: Icons.check_box_outline_blank_rounded
+    ),
+
+    MenuItems(
+      title: 'UI Controls + Tiles', 
+      subtitle: 'Una serie de controles en Flutter', 
+      link: '/ui-controls', 
+      icon: Icons.car_rental_outlined
     ),
   ];
 }
